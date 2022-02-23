@@ -9,6 +9,9 @@ Some of the key concepts applied in this project are threading (through beackgro
 The app presents 5 slots to run tests in 5 lithium battery samples concurrently. For each slot there are fields and options regarding the project characteristics and configurations to be transmitted to the controller which will power the battery sample:
 
 ![](images_ex/main_window.PNG)
+<img
+  src="images_ex/main_window.PNG"
+  style="display: inline-block; margin: 0 auto; max-width: 512px">
 
 ![](images_ex/device_face.JPG)
 
