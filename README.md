@@ -3,7 +3,7 @@
 ## Objective
 This a desktop application to aid the execution of normative continuous charge testing for lithium batteries. Developed entirely in C# using the .NET Core environment and libraries.
 It ables the configuration of multiple power outputs as well the registry of the levels through all the testing time using Ruideng's DPS5015 controller as hardware.
-Some of the key concepts applied in this project are threading (through beackground workers), serial communication and documents/directories manipulation in the Windows OS.
+Some of the key concepts applied in this project are threading (through background workers), serial communication and documents/directories manipulation in the Windows OS.
 
 ## Features
 The app presents 5 slots to run tests in 5 lithium battery samples concurrently. For each slot there are fields and options regarding the project characteristics and configurations to be transmitted to the controller which will power the battery sample:
